@@ -2,7 +2,7 @@
 
 
 
-R Markdown allows us to integrate coding and word processing to create documents such as project assignments, readme pages in Github, supplementary sections for a research paper, or analysis records in electronic notebooks. Basically, RMarkdown is a very simple ‘markup’ language which uses [Markdown syntax](https://daringfireball.net/projects/markdown/) to embed R code into a document and conventionally present its output (equations, images, graphs, tables, etc.) without the cumbersome copying, pasting,and resizing routines required by a word processors like MS Word. The suffix for these Markdown documents is ".Rmd" which may be converted to .html, .md, .doc or .pdf file formats for convenience, making RMarkdown an incredibly powerful tool for practicing reproducible science.
+R Markdown allows us to integrate coding and word processing to create documents such as project assignments, readme pages in Github, supplementary sections for a research paper, or analysis records in electronic notebooks. Basically, R Markdown is a very simple ‘markup’ language which uses [Markdown syntax](https://daringfireball.net/projects/markdown/) to embed R code into a document and conventionally present its output (equations, images, graphs, tables, etc.) without the cumbersome copying, pasting,and resizing routines required by a word processors like MS Word. The suffix for these Markdown documents is ".Rmd" which may be converted to .html, .md, .doc or .pdf file formats for convenience, making R Markdown an incredibly powerful tool for practicing reproducible science.
 
 
 
@@ -12,7 +12,7 @@ In this tutorial, we will understand how to create and render a dynamic R Markdo
 
 #### **Download R Markdown:**
 
-RMarkdown can be acquired from CRAN with the following commands:
+R Markdown can be acquired from CRAN with the following commands:
 
 ​	`install.packages("rmarkdown")`
 
@@ -20,7 +20,7 @@ RMarkdown can be acquired from CRAN with the following commands:
 
 
 
-#### **Create an RMarkdown file:**
+#### **Create an R Markdown file:**
 
 1. Open RStudio
 2. To create an R Markdown report, do *File > New File > R Markdown* and save it with the extension “.Rmd” (excluding quotes).
@@ -73,7 +73,7 @@ This auto-generated *.Rmd* file has three "types" of text:
 
    
 
-   ![pic-crop](C:\Users\divya\Downloads\pic-crop.png)
+   ![img](https://lh3.googleusercontent.com/0EiU98IrgqKges1k3lgn-ExkqBaB3mEEHsJE7u9e_R5BSYNiVD5JKuOPLiQ-fbLZPCHO2nkQx1Kry3Mtt6ubbPyirj01mgANVu_jtWYcca2gm7a2VDQEaAZi7F0FBA5hM7cEFDBQ)
 
    
 
@@ -93,7 +93,7 @@ The *output:* value determines what type of file to render into:
 
    
 
-   ![](C:\Users\divya\Downloads\pic-crop1 - Copy.png)
+   ![img](https://lh4.googleusercontent.com/br--eIooO3stBAxLjHfjq3fbRQ7rfDRv8X-li0NKcin4QJH6NwHTIy9osU80j2evba9-Sdmvv3NFeLEZ8P1m-QvO9KsjEiMrQ44EvdcXpyo7aYODuD_eMS14lZK4HCFgZKLw6OrR)
 
    
 
@@ -109,7 +109,7 @@ The *output:* value determines what type of file to render into:
 
    
 
-   ![](C:\Users\divya\Downloads\pic-crop1 - Copy.png)
+   ![img](https://lh6.googleusercontent.com/WIXvWSdg-cH5qCuzzy2X3M5URMpj6sx9xjaFkjJ8AfRys4H2WNJZ6Mf9Hws0rn6y8CgKfbURKnlOH_B8M2RbeDKu4a6zXvIa1W8j2x4qrfTsN4Jr5RrYUOMnDk43D0rTSiQmc7gg)
 
    
 
@@ -129,15 +129,14 @@ The *output:* value determines what type of file to render into:
 
    
 
-   1. Give these markdown conventions (with any text of your choice) a try in a plain text file and save it as a *.Rmd* file. Then, render the output as a pdf file for assessment.
+   1. Give these markdown conventions a try in a plain text file. Make sure you put in lists, headers, hyperlinks, bold and Italic text in there. Save the text file with an *.Rmd* suffix and then, render it as an HTML file. You can give it whatever title you wish. Submit the *Rmd* and *html* documents.
 
-   2. Use the ‘SalesJan2009.csv’ dataset to plot a graph displaying the relationship between products and the countries they were sold in (categorized based on the payment type). 
-
-   3. Render the other example demo file as a slideshow.
+   2. Open a new R Markdown document and give it a title of your choice. In this document, add an r-code to read the ‘SalesJan2009.csv’ dataset in a variable called 'metadata' and plot a graph using *plot(metadata)*. The plot will display the relationship between the variables in the dataset. Render the output as an HTML document. Submit the *Rmd* and *html* documents.
 
       
 
       
+
 
 #### **Render a .Rmd file to an HTML document:**
 

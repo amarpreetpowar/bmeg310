@@ -2,6 +2,9 @@
 
 This repository contains course material (tutorials, etc.) related to BMEG310 course at UBC.
 
+## Assignment Guidelines
+Please see this link as update guidelines for submitting assignments/tutorials [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment%20Guidelines.html)
+
 ## Tutorial 1 (Week of Sep 14, 2020): Introduction to git and R
 
 1- Install Virtualbox as per the instructions outlined in the following document: [link](https://docs.google.com/document/d/1BiSQHjmPYxBnD8DljzpQq6W7POFtNlEs2rkRQ5vI9n8/edit?usp=sharing)
@@ -25,14 +28,33 @@ This repository contains course material (tutorials, etc.) related to BMEG310 co
 
 ## Tutorial 2 (Week of Sep 21, 2020): Introduction to R Markdown and data visualization with R
 
-1. Introduction to R Markdown:
+1- Introduction to R Markdown:
+<br /> &nbsp;&nbsp;&nbsp;
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/R%20Markdown.html)
+<br /> &nbsp;&nbsp;&nbsp;
+1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Markdown/data)
+<br /> &nbsp;&nbsp;&nbsp;
+1.3. Cheatsheet for R Markdown can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/rmarkdown-summary.pdf)
 
-- Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/Tutorial%205.html)
-- Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Markdown/data)
-- Cheatsheet for R Markdown can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Markdown/tutorial/rmarkdown-summary.pdf)
+2- Introduction to R Visualization:
+<br /> &nbsp;&nbsp;&nbsp;
+2.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/R%20Visualization.html)
+<br /> &nbsp;&nbsp;&nbsp;
+2.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Visualization/data)
+<br /> &nbsp;&nbsp;&nbsp;
+2.3. Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
 
-2. Introduction to R Visualization:
+## Tutorial 3 & 4 (Weeks of Sep 28 & Oct 5, 2020): Introduction to Machine Learning with R
 
-- Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/R%20Visualization.html)
-- Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%202/R%20Visualization/data)
-- Cheatsheet for R Visualization can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%202/R%20Visualization/tutorial/ggplot2-cheatsheet.pdf)
+1- Getting Started with Regression, Clustering, and Classification in R:
+<br /> &nbsp;&nbsp;&nbsp;
+1.1. Tutorial can be found here: [Link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%203/tutorial/Regression-Clustering-Classification.html)
+<br /> &nbsp;&nbsp;&nbsp;
+1.2. Data files can be found here: [Link](https://github.com/bmeg310ubc/bmeg310/tree/master/Tutorial%203/data)
+<br /> &nbsp;&nbsp;&nbsp;
+1.3. Cheatsheets for Machine Learning Concepts can be found here: [Link](https://ml-cheatsheet.readthedocs.io/en/latest/)
+
+## Assignment 1: R/Machine Learning 
+You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
+
+
